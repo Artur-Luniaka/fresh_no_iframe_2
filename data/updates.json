@@ -1,0 +1,34 @@
+{
+  "updates": [
+    {
+      "date": "2024-03-15",
+      "title": "New Mountain Trail Added",
+      "content": "We're excited to announce the addition of the challenging 'Eagle's Peak' trail. This new route features steep inclines, narrow paths, and breathtaking views. Test your driving skills on this extreme terrain!",
+      "image": "picture-1.png"
+    },
+    {
+      "date": "2024-03-10",
+      "title": "Vehicle Physics Update",
+      "content": "We've improved the vehicle physics system to provide more realistic off-road handling. The update includes better suspension simulation and enhanced terrain interaction.",
+      "image": "picture-2.png"
+    },
+    {
+      "date": "2024-03-05",
+      "title": "Multiplayer Improvements",
+      "content": "Enhanced multiplayer experience with improved server stability and reduced latency. New features include real-time chat, friend system, and competitive leaderboards.",
+      "image": "picture-3.png"
+    },
+    {
+      "date": "2024-03-05",
+      "title": "Vehicle Customization Update",
+      "content": "Added new customization options for your off-road vehicles. Choose from a variety of new parts, colors, and accessories to make your ride unique.",
+      "image": "picture-4.png"
+    },
+    {
+      "date": "2024-03-01",
+      "title": "Desert Rally Event",
+      "content": "Join the new Desert Rally event and compete for exclusive rewards!",
+      "image": "picture-5.png"
+    }
+  ]
+}

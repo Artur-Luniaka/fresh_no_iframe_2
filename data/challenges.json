@@ -1,0 +1,22 @@
+{
+  "challenges": [
+    {
+      "title": "Eagle's Peak",
+      "description": "A steep and rocky climb with breathtaking views.",
+      "image": "picture-1.png",
+      "difficulty": 5
+    },
+    {
+      "title": "Muddy Pass",
+      "description": "Navigate through deep mud and slippery slopes.",
+      "image": "picture-2.png",
+      "difficulty": 4
+    },
+    {
+      "title": "Forest Run",
+      "description": "A fast-paced trail through dense forest.",
+      "image": "picture-3.png",
+      "difficulty": 3
+    }
+  ]
+}

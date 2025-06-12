@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "title": "Realistic Physics",
+      "description": "Experience authentic off-road physics with dynamic terrain interaction and realistic vehicle behavior.",
+      "icon": "physics"
+    },
+    {
+      "id": 2,
+      "title": "Dynamic Weather",
+      "description": "Face challenging weather conditions that affect terrain and driving mechanics.",
+      "icon": "weather"
+    },
+    {
+      "id": 3,
+      "title": "Vehicle Customization",
+      "description": "Upgrade your jeep with various parts and modifications to tackle different terrains.",
+      "icon": "customization"
+    },
+    {
+      "id": 4,
+      "title": "Open World",
+      "description": "Explore vast landscapes with unique challenges and hidden treasures.",
+      "icon": "world"
+    },
+    {
+      "id": 5,
+      "title": "Multiplayer Mode",
+      "description": "Compete with friends in challenging off-road races and cooperative missions.",
+      "icon": "multiplayer"
+    },
+    {
+      "id": 6,
+      "title": "Dynamic Missions",
+      "description": "Complete various missions with increasing difficulty and unique rewards.",
+      "icon": "missions"
+    }
+  ]
+}

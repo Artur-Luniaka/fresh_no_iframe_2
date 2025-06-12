@@ -1,0 +1,22 @@
+{
+  "reviews": [
+    {
+      "name": "Alex Thompson",
+      "avatar": "alex.jpg",
+      "rating": 5,
+      "text": "The most realistic off-road experience I've ever had! The physics engine is incredible, and the graphics are stunning."
+    },
+    {
+      "name": "Sarah Chen",
+      "avatar": "sarah.jpg",
+      "rating": 4,
+      "text": "Great game with challenging trails. The upgrade system adds a lot of depth to the gameplay."
+    },
+    {
+      "name": "Mike Rodriguez",
+      "avatar": "mike.jpg",
+      "rating": 5,
+      "text": "The attention to detail in the terrain and vehicle handling is amazing. Can't wait for more trails!"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "upgrades": [
+    {
+      "title": "All-Terrain Tires",
+      "description": "Boosts grip and stability on rough terrain.",
+      "image": "picture-4.png",
+      "performance": 80,
+      "durability": 70
+    },
+    {
+      "title": "Heavy Duty Suspension",
+      "description": "Absorbs shocks and improves ride comfort.",
+      "image": "picture-5.png",
+      "performance": 70,
+      "durability": 90
+    },
+    {
+      "title": "Winch Kit",
+      "description": "Essential for self-recovery in tough spots.",
+      "image": "picture-6.png",
+      "performance": 60,
+      "durability": 80
+    }
+  ]
+}

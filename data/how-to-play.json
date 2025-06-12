@@ -1,0 +1,20 @@
+{
+  "steps": [
+    {
+      "title": "Choose Your Jeep",
+      "description": "Select from a variety of jeeps, each with unique handling and performance characteristics."
+    },
+    {
+      "title": "Master the Controls",
+      "description": "Learn the intuitive controls for acceleration, braking, and steering to navigate challenging terrain."
+    },
+    {
+      "title": "Plan Your Route",
+      "description": "Study the trail map and choose your path through the mountains, considering difficulty and rewards."
+    },
+    {
+      "title": "Upgrade Your Vehicle",
+      "description": "Earn points by completing challenges and use them to upgrade your jeep's performance and durability."
+    }
+  ]
+}
