@@ -13,10 +13,10 @@ document.addEventListener("DOMContentLoaded", () => {
       </div>
       <ul class="nav-menu">
         <li><a href="./" class="nav-link">Garage</a></li>
-        <li><a href="/road-log.html" class="nav-link">Road Log</a></li>
-        <li><a href="/contacts-point.html" class="nav-link">Call Center</a></li>
+        <li><a href="./road-log.html" class="nav-link">Road Log</a></li>
+        <li><a href="./contacts-point.html" class="nav-link">Call Center</a></li>
         <li><a href="./#how-to-play" class="nav-link">How to Ride</a></li>
-        <li><a href="/offroad-disclaimer.html" class="nav-link">Disclaimer Station</a></li>
+        <li><a href="./offroad-disclaimer.html" class="nav-link">Disclaimer Station</a></li>
       </ul>
     </div>
   `;

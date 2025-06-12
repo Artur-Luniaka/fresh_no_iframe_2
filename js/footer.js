@@ -7,8 +7,8 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="footer-section">
                 <h3 class="footer-title">Legal Station</h3>
                 <ul class="footer-links">
-                    <li><a href="/jeep-cookies.html" class="footer-link">Cookie Policy</a></li>
-                    <li><a href="/jeep-privacy.html" class="footer-link">Privacy Policy</a></li>
+                    <li><a href="./jeep-cookies.html" class="footer-link">Cookie Policy</a></li>
+                    <li><a href="./jeep-privacy.html" class="footer-link">Privacy Policy</a></li>
                 </ul>
             </div>
             
