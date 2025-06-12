@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   // Load game updates
-  fetch("/data/updates.json")
+  fetch("data/updates.json")
     .then((response) => response.json())
     .then((data) => {
       const updatesContainer = document.getElementById("updates-container");
@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .catch((error) => console.error("Error loading updates:", error));
 
   // Load trail diaries
-  fetch("/data/diaries.json")
+  fetch("data/diaries.json")
     .then((response) => response.json())
     .then((data) => {
       const diariesContainer = document.getElementById("diaries-container");
