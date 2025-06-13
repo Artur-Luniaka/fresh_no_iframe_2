@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   header.innerHTML = `
     <div class="header-container">
       <a href="./" class="logo">
-        <span class="logo-text">Domain.com</span>
+        <span class="logo-text">RewardsGamingZone.com</span>
       </a>
       <div class="burger-menu" aria-label="Toggle navigation">
         <span class="burger-line"></span>

@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <div class="footer-contact">
                     <div class="footer-contact-item">
                         <span>Email:</span>
-                        <a href="mailto:info@domain.com" class="footer-link">info@domain.com</a>
+                        <a href="mailto:info@RewardsGamingZone.com" class="footer-link">info@RewardsGamingZone.com</a>
                     </div>
                     <div class="footer-contact-item">
                         <span>Phone:</span>
@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
         </div>
         
         <div class="footer-bottom">
-            <p>&copy; ${currentYear} Domain.com | All rights reserved.</p>
+            <p>&copy; ${currentYear} RewardsGamingZone.com | All rights reserved.</p>
         </div>
     `;
 });
