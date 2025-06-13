@@ -81,6 +81,13 @@ body {
   flex-direction: column;
 }
 
+h2 {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
 /* Container */
 .container {
   width: 100%;
